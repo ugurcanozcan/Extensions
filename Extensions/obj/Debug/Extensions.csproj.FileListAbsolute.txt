@@ -1,0 +1,8 @@
+C:\Works\Extensions\Extensions\bin\Debug\Extensions.exe.config
+C:\Works\Extensions\Extensions\bin\Debug\Extensions.exe
+C:\Works\Extensions\Extensions\bin\Debug\Extensions.pdb
+C:\Works\Extensions\Extensions\obj\Debug\Extensions.csproj.AssemblyReference.cache
+C:\Works\Extensions\Extensions\obj\Debug\Extensions.csproj.SuggestedBindingRedirects.cache
+C:\Works\Extensions\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Works\Extensions\Extensions\obj\Debug\Extensions.exe
+C:\Works\Extensions\Extensions\obj\Debug\Extensions.pdb
